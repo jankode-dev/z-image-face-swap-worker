@@ -1,0 +1,11 @@
+{
+  "input": {
+    "workflow": "See workflow/zimage_reimagine_v11_api.json — paste full object here for curl tests",
+    "images": [
+      {
+        "name": "reference.png",
+        "image": "BASE64_OF_REFERENCE_IMAGE_HERE"
+      }
+    ]
+  }
+}
